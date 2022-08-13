@@ -4,7 +4,6 @@ Created on Sat Aug 13 12:25:05 2022
 
 @author: oguztuzun
 """
-from morse_transformer import morse_transformer
 import matplotlib.pyplot as plt
 
 
